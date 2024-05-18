@@ -8,3 +8,8 @@ border-style:solid
 body{
 background-color:lightblue;padding:300px
 }
+body {font-family: Arial, sans-serif;}
+.navbar {overflow: hidden; background-color: #333;}
+
+.navbar a {float: left; display: block; color: #f2f2f2; text-align: center; padding: 15px 16px; text-
+decoration: none;}
